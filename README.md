@@ -157,3 +157,4 @@ FROM MonthRevenue;
 
 ---
 
+This project analyzes Alibert Furnishings’ sales, customers, and inventory using SQL to uncover key insights for better decision-making. It identifies top products and customers, evaluates stock levels, and supports future dashboard creation and predictive analysis.
